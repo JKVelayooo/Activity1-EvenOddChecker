@@ -1,0 +1,14 @@
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\bin\Debug\net10.0\activity1.exe
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\bin\Debug\net10.0\activity1.deps.json
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\bin\Debug\net10.0\activity1.runtimeconfig.json
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\bin\Debug\net10.0\activity1.dll
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\bin\Debug\net10.0\activity1.pdb
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.AssemblyInfoInputs.cache
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.AssemblyInfo.cs
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.csproj.CoreCompileInputs.cache
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.dll
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\refint\activity1.dll
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.pdb
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.genruntimeconfig.cache
+C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\ref\activity1.dll
