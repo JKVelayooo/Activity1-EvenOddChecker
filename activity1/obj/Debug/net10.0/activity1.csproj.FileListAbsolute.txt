@@ -12,4 +12,3 @@ C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\refint\ac
 C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.pdb
 C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.genruntimeconfig.cache
 C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\ref\activity1.dll
-C:\Users\Josef\source\repos\EvenOddChecker\activity1\obj\Debug\net10.0\activity1.sourcelink.json

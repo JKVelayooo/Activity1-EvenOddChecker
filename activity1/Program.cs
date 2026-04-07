@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         char reply; // Declare outside so the while loop can see it
-        char confirm = 'Y'; 
+
 
         Console.Write("-------------------------------------------------------------\n\n");
         Console.Write("                  EVEN & ODD NUMBER CHECKER                  \n");
@@ -44,26 +44,7 @@ class Program
 
             }
 
-            //Confirmation
-            if (reply == 'N' || reply == 'n')
-            {
-                Console.Write("\nAre you sure you want to exit? [Y/N]: ");
-                confirm = char.Parse(Console.ReadLine());
-
-                while (confirm != 'Y' && confirm != 'y' && confirm != 'N' && confirm != 'n')
-                {
-                    Console.Write("\nInvalid entry! Please type [Y/N] only: ");
-                    confirm = char.Parse(Console.ReadLine());
-
-                }
-
-            }
-            else
-            {
-                confirm = 'N';
-            }
-
-        } while (confirm == 'N' || confirm == 'n');
+        } while (reply == 'Y' || reply == 'y');
         
 
         Console.Write("\n-------------------------------------------------------------\n");
